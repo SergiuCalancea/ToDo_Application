@@ -9,7 +9,7 @@
   <name>ToDo List Web Application</name>
 
   <properties>
-    <spring.version>7.1.0-RC1</spring.version>
+    <spring.version>5.3.29</spring.version>
     <servlet.version>4.0.1</servlet.version>
   </properties>
 
